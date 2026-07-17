@@ -1,0 +1,387 @@
+﻿type;location_lat;location_lon;city_name_en;region_name_en;developer_name;max_area;max_bed_room;max_bathroom;max_price;min_area;project_name;project_type;publish_date;type_1;unit_types_0
+marketplaces;24.560109;46.519438;AR RIYADH;Riyadh;شركة المسكن المحدودة;196.54;3;3;780000;177;المسكن ?? - الرياض;offplan_private_land;30/08/22;marketplaces;apartment
+marketplaces;24.793165;46.633768;AR RIYADH;Riyadh;شركة جود العمارة للتطوير والاستثمار العقاري;331.01;3;1;2613750;110.8;جلامور - الرياض;offplan_private_land;29/08/22;marketplaces;apartment
+marketplaces;24.058337;42.836919;AFIF;Riyadh;;1260;1;3;148871;556.5;مخطط 879  - العيدانية;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;18.446355;42.098271;MUHAYIL;'Asir;;551.252;1;2;754052;476.212;مخطط جوهرة محايل - عسير;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.545443;44.404584;AD DUWADIMI;Riyadh;;945.05;1;3;472767;400;مخطط طيبة العليا - الدوادمي;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;26.182713;43.614401;AL BUKAYRIYAH;Qassim;;643.36;1;2;775292;421.31;مخطط زهرة البكيرية - البكيرية;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;30.356711;42.249882;AL UWAYQILAH;Northern Borders;;573.2601;1;1;286353;450;مخطط الورود - العويقلية;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;19.18114;41.195385;AL QUNFIDHAH;Makkah;;502;1;3;502926;500.9995898;مخطط الرفاة - القنفذة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;16.867972;42.957302;ABU ARISH;Jizan;;779;1;2;420571;600.63;مخطط إسكان أبو عريش - أبو عريش;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;22.279591;46.713575;LAYLA;Riyadh;;865.4163;1;2;375131;598.75;مخطط إسكان الأفلاج - الأفلاج;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;22.33625;39.822513;AL KAMIL;Makkah;;450;1;1;183221;450;مخطط إسكان الكامل - الكامل;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;27.22034;42.446524;ASH SHINAN;Ha'il;;560;1;3;113035;475;مخطط إسكان الشنان - الشنان;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;23.792337;38.724246;BADR;Madinah;;450;1;1;801460;450;مخطط إسكان بدر - بدر;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.54346;43.958677;AD DUWADIMI;Riyadh;;1336.748437;1;2;735526;580.8718982;144 - وادي الرشاء;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;27.508793;41.77225;HAIL;Ha'il;;669.31;1;1;348744;421.46;مخطط إسكان حائل - حائل;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;27.619375;38.490426;TAYMA';Tabuk;;515.5;1;3;516115;460;مخطط إسكان تيماء - تيماء;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;29.807707;40.167496;SAKAKA;Jawf;;777.067;1;2;810846;479.995;مخطط إسكان سكاكا 2 - سكاكا;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;26.060963;44.095049;UNAYZAH;Qassim;;541.25;1;2;148445;497;مخطط إسكان عنيزة - عنيزة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;31.013132;41.054961;AR'AR;Northern Borders;;500;1;3;364424;492;مخطط إسكان عرعر - عرعر;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;27.019028;47.051472;QARYAT AL 'ULYA;Eastern Province;;1000;1;3;260041;600;مخطط العليا - قرية العليا;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.098672;45.309165;QUWAY'IYAH;Riyadh;;1065.648077;1;2;762371;500;مخطط روضة الصفا - القويعية;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;26.252625;43.911115;BURAYDAH;Qassim;;982.952053;1;2;597867;452.830401;مخطط خب الروضان - بريدة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;17.638249;42.236922;AD DARB;Jizan;;550;1;1;657230;450;مخطط روابي عتود  - الدرب;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;17.511119;47.051395;SHARURAH;Najran;;550.0041;1;2;843613;449.9956;مخطط درة شرورة - شرورة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;25.652161;46.365477;THADIQ;Riyadh;;748;1;3;457129;600;مخطط ثادق 717;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;18.425191;42.715984;KHAMIS MUSHAYT;'Asir;;706.676121;1;3;871147;376.749647;مخطط درة الخميس - خميس مشيط;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;17.522757;44.679211;BIR KHUBASH;Najran;;550;1;3;875528;475;مخطط أزهار الوفاء - خباش;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;17.21360696;42.62261421;SABYA;Jizan;;612.5;1;3;354167;411.6;مخطط روضة نخلان - صبيا;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.953067;46.627008;AR RIYADH;Riyadh;الشركة الوطنية للإسكان;317.5;6;1;1674180;133;مرسية - الرياض;offplan_moh_land;06/01/22;marketplaces;apartment
+marketplaces;18.286109;42.513347;ABHA;'Asir;علي شار;500;5;1;1594448;250;تلال أبها - أبها;offplan_moh_land;06/01/22;marketplaces;townhouse
+marketplaces;26.526407;49.972012;AL QATIF;Eastern Province;الرائم للمقاولات;213;4;1;410753;213;القطيف البدراني -  القطيف;offplan_moh_land;06/01/22;marketplaces;apartment
+marketplaces;26.199053;50.184197;AL KHUBAR;Eastern Province;دار واعمار للاستثمار والتطوير العقاري;319.66;4;3;1025000;200.12;سرايا الغروب  - الخبر;offplan_private_land;06/01/22;marketplaces;villa
+marketplaces;26.350694;50.096472;AD DAMMAM;Eastern Province;الرائم للمقاولات;203;3;3;690200;133;عوالي الظهران - الدمام;offplan_private_land;06/01/22;marketplaces;apartment
+marketplaces;21.801902;39.046379;JEDDAH;Makkah;شركة الأثير للتطوير والاستثمار العقاري;313.74;4;2;1087940;122.13;أبحر بارك - جدة;offplan_private_land;06/01/22;marketplaces;apartment
+marketplaces;24.892575;46.644663;AR RIYADH;Riyadh;دار واعمار للاستثمار والتطوير العقاري;275.4;4;1;1026235;200.1;سرايا النرجس - الرياض;offplan_moh_land;06/01/22;marketplaces;townhouse
+marketplaces;24.545152;43.902027;AD DUWADIMI;Riyadh;;736;1;3;453916;595.5;مخطط أ/ 228;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;21.463467;40.440576;AT TAIF;Makkah;شركة الفاف للتطوير العقاري;756.35;4;1;1241932;282.4068;تاج المصيف - الطائف;offplan_private_land;06/01/22;marketplaces;villa
+marketplaces;24.926167;46.639694;AR RIYADH;Riyadh;عبدالرحمن الراشد وأولاده;485.935;5;2;1421510;200;النرجس فيو - الرياض;offplan_moh_land;06/01/22;marketplaces;townhouse
+marketplaces;24.931846;46.645391;AR RIYADH;Riyadh;رتال;418;4;2;1036220;248.5;نساج تاون - الرياض;offplan_moh_land;06/01/22;marketplaces;villa
+marketplaces;24.940556;46.638722;AR RIYADH;Riyadh;دار واعمار للاستثمار والتطوير العقاري;375;5;3;1163491;250;سرايا الجوان - الرياض;offplan_moh_land;06/01/22;marketplaces;villa
+marketplaces;21.768167;39.184389;JEDDAH;Makkah;شركة الأولى لتطوير العقارات;305.02;4;1;1303527;250;المهندية - جدة;offplan_moh_land;06/01/22;marketplaces;villa
+marketplaces;24.9473889;46.6406667;AR RIYADH;Riyadh;ثبات المسكن العقارية;400;5;3;1480676;240;المهندية - الرياض;offplan_moh_land;06/01/22;marketplaces;villa
+marketplaces;21.767833;39.182528;JEDDAH;Makkah;مكيون مطورون عمرانيون;263.75;4;1;832821;169.43;سما جدة - جدة;offplan_moh_land;06/01/22;marketplaces;apartment
+marketplaces;21.77639;39.18715;JEDDAH;Makkah;شركة سمو العقارية مساهمة مدرجة;337.6;6;2;1224806;200;دار سمو - جدة;offplan_moh_land;06/01/22;marketplaces;townhouse
+marketplaces;21.552528;39.283778;JEDDAH;Makkah;شركة درة الذهبية للتطوير العقاري;230;6;3;760000;230;درة الذهبية 25 - جدة;readymade_private_land;06/01/22;marketplaces;apartment
+marketplaces;21.539222;39.295556;JEDDAH;Makkah;شركة درة الذهبية للتطوير العقاري;217;6;2;730000;217;درة الذهبية 27 - جدة;readymade_private_land;06/01/22;marketplaces;apartment
+marketplaces;27.549589;47.726099;QARYAT AL 'ULYA;Eastern Province;;1460.59;1;3;557854;424.05;مخطط 119/20 - قرية العليا;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;24.562336;46.569412;AR RIYADH;Riyadh;شركة مرسى البحار للمقاولات العامة;199.48;5;1;731250;153.1;مارينا ريزدينس - الرياض;offplan_private_land;19/12/21;marketplaces;apartment
+marketplaces;21.571694;39.249639;JEDDAH;Makkah;شركة أفاق الذهبية المحدودة;195;3;1;790000;184.8;جواهر الواحة - جدة;offplan_private_land;16/12/21;marketplaces;apartment
+marketplaces;21.701096;39.209686;JEDDAH;Makkah;شركة عراب التمليك للتطوير العقاري;215;2;1;650000;107.5;عراب التمليك 101 - 102  - جدة;offplan_private_land;06/12/21;marketplaces;apartment
+marketplaces;24.92675;46.878028;AR RIYADH;Riyadh;شركة ساطعة التعمير للتطوير والاستثمار العقاري;520;5;2;2173556;300;أكنان الشرق - الرياض;offplan_private_land;05/12/21;marketplaces;villa
+marketplaces;23.363929;45.387554;AR RAYN;Riyadh;;826.79;1;3;438014;431.33;مخطط مركز شلاح - الرين;lands_moh_land;17/11/21;marketplaces;land
+marketplaces;26.346025;49.9764004;AD DAMMAM;Eastern Province;شركة تمكين للاستثمار و التطوير العقارى;190.76;4;1;546553;129.67;نعمى - الدمام;offplan_moh_land;16/11/21;marketplaces;apartment
+marketplaces;24.1630454;47.259627;AL KHARJ;Riyadh;فرع شركة خطى الخير للتشغيل والصيانة;526.006;4;1;1018813;274.59;الدانة الغربي - الخرج;offplan_private_land;16/11/21;marketplaces;villa
+marketplaces;21.500848;39.203381;JEDDAH;Makkah;شركة الحناكي للتطوير العقاري;216;3;1;832464;196;جدة قاردنز - جدة -  شركة الحناكي;offplan_private_land;16/11/21;marketplaces;apartment
+marketplaces;26.3659423;50.22649882;AL KHUBAR;Eastern Province;رتال;1061;5;1;4422149;525;أيالا النخيل - الخبر;offplan_private_land;16/11/21;marketplaces;villa
+marketplaces;24.7949459;46.80245472;AR RIYADH;Riyadh;شركة فيصل عبدالله بن سعيدان للاستثمار والتطويرالعقاري;162.9;3;2;733050;127.5;اشبيليا - الرياض;offplan_private_land;16/11/21;marketplaces;apartment
+marketplaces;26.866979;47.119182;QARYAT AL 'ULYA;Eastern Province;;750;1;3;510951;600;مخطط البويبيات - 47/18;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;25.449809;49.651795;AL MUBARRAZ;Eastern Province;شركة مساكن أفياء للتطوير والاستثمار العقاري;401.86;5;1;1440000;226.35;أفياء السكني - الشرقية;offplan_private_land;16/11/21;marketplaces;villa
+marketplaces;24.9225062;46.64411679;AR RIYADH;Riyadh;شركة محمد عبدالعزيز الحبيب وشركاؤه للاستثمار العقاري;438;4;1;1789477;249.5;أصالة الجوان - الرياض;offplan_moh_land;16/11/21;marketplaces;townhouse
+marketplaces;21.744222;39.202333;JEDDAH;Makkah;شركة دور العقارية للعقارات المحدودة;220.5;3;3;750000;206;الاندلسية - جدة;offplan_private_land;16/11/21;marketplaces;apartment
+marketplaces;21.798018;39.097141;JEDDAH;Makkah;مؤسسة لؤلؤة فرسان;333.5;7;2;2100000;287.5;لؤلؤة الفرسان - جدة;offplan_private_land;16/11/21;marketplaces;villa
+marketplaces;24.518015;39.688552;AL MADINAH AL MUNAWWARAH;Madinah;شركة دور العقارية للعقارات المحدودة;324;5;1;1025000;125.5;زاهية - المدينة المنورة;offplan_private_land;16/11/21;marketplaces;apartment
+marketplaces;21.347889;39.903389;MAKKAH AL MUKARRAMAH;Makkah;شركة ساطعة التعمير للتطوير والاستثمار العقاري;219;4;2;1930470;104;أكنان العوالي - مكة المكرمة;offplan_private_land;16/11/21;marketplaces;apartment
+marketplaces;26.219611;50.204833;AL KHUBAR;Eastern Province;الرائم للمقاولات;181;3;3;900000;145;الشروق - الخبر;offplan_private_land;15/11/21;marketplaces;apartment
+marketplaces;24.531389;46.635111;AR RIYADH;Riyadh;شركة فيصل عبدالله بن سعيدان للاستثمار والتطويرالعقاري;289.86;4;2;716800;109.74;نزل الحزم - الرياض;offplan_private_land;15/11/21;marketplaces;apartment
+marketplaces;24.806442;46.626184;AR RIYADH;Riyadh;شركة جود العمارة للتطوير والاستثمار العقاري;216.66;4;2;1650000;204.94;نزل فاتن - الرياض;offplan_private_land;11/11/21;marketplaces;apartment
+marketplaces;26.359721;50.098023;AD DAMMAM;Eastern Province;شركة روض الخزامى للتطوير العقاري;339;5;3;1440000;204;برج روض الخزامى السكني - الدمام;readymade_private_land;02/11/21;marketplaces;apartment
+marketplaces;24.606367;43.601602;AD DUWADIMI;Riyadh;;674.2735074;1;1;192707;586.5385416;مخطط الصالحية - 130;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;24.48824;39.619506;AL MADINAH AL MUNAWWARAH;Madinah;شركة راج العقارية;217;4;3;729000;119.5;مساكن الروضة - المدينة المنورة;offplan_private_land;01/11/21;marketplaces;apartment
+marketplaces;0;0;HAIL;Ha'il;وزارة الإسكان;886.55;3;3;371500;420;إسكان حائل - حائل;readymade_moh_land;28/10/21;marketplaces;villa
+marketplaces;22.4104852;39.08236422;King Abdullah Economic City;Makkah;شركة اعمار المدينة الاقتصادية;283.6;3;3;2960209;60.17;مدينة الملك عبدالله الاقتصادية - البيلسان;readymade_private_land;28/10/21;marketplaces;apartment
+marketplaces;22.4420678;39.11315639;King Abdullah Economic City;Makkah;شركة اعمار المدينة الاقتصادية;966.87;5;2;2611072;407.69;مدينة الملك عبدالله الاقتصادية - التالة جاردنز 1.3;readymade_private_land;28/10/21;marketplaces;villa
+marketplaces;22.4499049;39.09756439;King Abdullah Economic City;Makkah;شركة اعمار المدينة الاقتصادية;1267.31;1;2;1599680;427.4;مدينة الملك عبدالله الاقتصادية - المروج;lands_private_land;28/10/21;marketplaces;land
+marketplaces;22.4611687;39.10645949;King Abdullah Economic City;Makkah;شركة اعمار المدينة الاقتصادية;323.6;4;1;1294077.2;69.5;مدينة الملك عبدالله الاقتصادية - الواحة;readymade_private_land;28/10/21;marketplaces;apartment
+marketplaces;22.4915935;39.10595949;King Abdullah Economic City;Makkah;شركة اعمار المدينة الاقتصادية;163.2;4;1;693628;62.14;مدينة الملك عبدالله الاقتصادية - الشروق;readymade_private_land;28/10/21;marketplaces;apartment
+marketplaces;0;22.44206784;King Abdullah Economic City;Makkah;شركة اعمار المدينة الاقتصادية;793.9;1;2;621428;280;مدينة الملك عبدالله الاقتصادية - التالة جاردنز;lands_private_land;28/10/21;marketplaces;land
+marketplaces;21.760861;39.09375;JEDDAH;Makkah;سعيد مسفر الغامدي للتطوير العقاري;345;7;3;2200000;345;نجمة الصفوة - جدة;readymade_private_land;28/10/21;marketplaces;villa
+marketplaces;21.576123;39.239075;JEDDAH;Makkah;سندس العقارية;199.6;3;2;858280;134.8;أبراج بوابة التحلية - جدة;offplan_private_land;27/10/21;marketplaces;apartment
+marketplaces;23.476689;44.373787;QUWAY'IYAH;Riyadh;;547.56;1;3;888242;340;مخطط 139 القويعية;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;24.813338;46.7861705;AR RIYADH;Riyadh;شركة الأشغال العقارية;150.08;3;1;795000;27.5548;هبيتات - الرياض;offplan_private_land;27/10/21;marketplaces;apartment
+marketplaces;18.350852;42.746197;KHAMIS MUSHAYT;'Asir;عبدالرحمن الراشد وأولاده;569.725;5;2;901004;262.08;خميس فيو - خميس مشيط;offplan_moh_land;17/10/21;marketplaces;villa
+marketplaces;26.373444;50.105694;AD DAMMAM;Eastern Province;الشركة الوطنية للإسكان;874.91;1;2;1992170.07;673.07;أرض الراجحي - الدمام;lands_private_land;13/10/21;marketplaces;land
+marketplaces;24.423694;39.688056;AL MADINAH AL MUNAWWARAH;Madinah;شركة دور العقارية للعقارات المحدودة;299.4;4;1;1050000;186.5;جنان السكني - المدينة المنورة;offplan_private_land;30/09/21;marketplaces;apartment
+marketplaces;24.539033;39.683141;AL MADINAH AL MUNAWWARAH;Madinah;شركة دور العقارية للعقارات المحدودة;330;4;1;999000;283;أنوار السكني - المدينة المنورة;offplan_private_land;30/09/21;marketplaces;apartment
+marketplaces;24.382954;39.670739;AL MADINAH AL MUNAWWARAH;Madinah;شركة قواعد الانماء للإنشاء والتطوير;1346.48;1;1;1855986;210;مخطط الاندلس - المدينة المنورة;lands_private_land;14/09/21;marketplaces;land
+marketplaces;26.3490285;50.09392132;AD DAMMAM;Eastern Province;الرائم للمقاولات;182;3;2;819000;153;الفاخرية - الدمام;offplan_private_land;31/08/21;marketplaces;apartment
+marketplaces;26.227053;50.204482;AL KHUBAR;Eastern Province;شركة سكنا للتطوير العقاري;161;3;2;685000;90;مجمع أريس السكني - الدمام;offplan_private_land;31/08/21;marketplaces;apartment
+marketplaces;26.875936;40.332131;ASH SHAMLI;Ha'il;;585.397;1;1;473635;469.335;مخطط الشملي;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.463522;48.535558;AN NU'AYRIYAH;Eastern Province;;568.23;1;1;509299;450;مشروع  أنوار الخليج - النعيرية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.72325;42.531835;BAQ'A;Ha'il;;1155;1;1;401126;884.1;مخطط الشعلانية  357/3;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;25.515164;47.190506;RUMAH;Riyadh;;500;1;2;717729;495;مشروع إسكان رماح;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;17.477711;47.06493;SHARURAH;Najran;;553;1;3;302445;400;مخطط النزهة - شرورة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;18.143111;42.846972;AHAD RIFAYDAH;'Asir;;400;1;2;478998;400;مشروع  نسيم الجبل - أحد رفيدة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;20.158545;40.265307;AL LITH;Makkah;;502.0012117;1;3;571836;500.9985356;الليث;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;17.378554;42.448969;BAYSH;Jizan;;536.25;1;3;395623;487.5;بيش 83;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;18.558944;44.192556;YADAMAH;Najran;;711;1;3;864822;456.06;مخطط أصيل اللجام - يدمة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;21.37055;40.620688;AT TAIF;Makkah;;450;1;3;174025;450;وادي جليل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;19.950418;42.599198;BISHAH;'Asir;;550.41;1;3;135031;450;مشروع الزهور - بيشة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;28.431806;48.435944;AL KHAFJI;Eastern Province;;633.12;1;3;422058;423.41;مشروع جوهرة الخفجي;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;20.415434;44.918593;WADI AD DAWASIR;Riyadh;;500;1;1;168417;500;مشروع منتزه الوادي - وادي الدواسر;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.101857;47.015506;QARYAT AL 'ULYA;Eastern Province;;1246.97;1;2;515153;575.49;مخطط ش.ع 172 الرفاع;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;17.375429;42.424493;BAYSH;Jizan;;686.69;1;3;293828;489.6;مخطط لؤلؤة الشاطئ;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.849254;42.455576;BAQ'A;Ha'il;;1107.199124;1;2;166478;472.088256;موقع بقعاء 2;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;16.69472;42.103619;FARASAN;Jizan;;531;1;2;803356;480;مشروع  شاطئ فرسان;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.8865;45.39775;AL MAJMA'AH;Riyadh;;529.765;1;1;388803;475;مشروع الملتقى - المجمعة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.278117;41.373561;AS SULAYMI;Ha'il;;584.586;1;3;501049;491.252;مشروع الروابي - حائل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;20.00213;42.690259;BISHAH;'Asir;;660.8547741;1;3;842909;437.498692;مشروع  نسيم الريان - بيشة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.055917;44.102333;UNAYZAH;Qassim;;600;1;1;300632;230;مخطط العوشزية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;19.993763;42.683601;BISHAH;'Asir;;911.497724;1;3;245565;626.481789;مشروع  لؤلؤة الريان - بيشة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;20.488854;45.567513;AS SULAYYIL;Riyadh;;661;1;3;770249;400;مشروع  بساتين السليل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.472374;43.643891;UYUN AL JAWA';Qassim;;1125.001779;1;1;245541;479.998284;مشروع درة العيون - عيون الجواء;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.648333;50.004139;AL QATIF;Eastern Province;رتال;421;4;1;1518503;250;نساج تاون صفوى - القطيف;offplan_moh_land;28/08/22;marketplaces;villa
+marketplaces;22.489212;40.438325;AT TAIF;Makkah;;1224.75043;1;3;451583;599.8777618;مخطط 1082;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;19.989785;42.697259;BISHAH;'Asir;;993.011933;1;3;363513;599.998065;مخطط زهور الريان;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;19.998965;42.701115;BISHAH;'Asir;;667.4994094;1;2;838146;408.4057328;مخطط روضة الريان;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;29.591932;43.571798;RAFHA';Northern Borders;;666;1;1;339937;480;مشروع الضاحية 1 - رفحاء;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.881301;42.920256;AFIF;Riyadh;;720;1;2;971251;582;مشروع واحات عفيف;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.751091;44.180284;AL ASYAH;Qassim;;553.0853;1;3;260555;500;مشروع ربوع الأسياح;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;19.980224;42.693603;BISHAH;'Asir;;581.904;1;1;802351;440.315;بيشة 404;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;30.434211;38.374053;TUBARJAL;Jawf;;591.66;1;3;528090;447.93;ينبوع طبرجل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.048902;44.989457;AL GHAT;Riyadh;;550;1;1;319431;494.8601;مشروع  رمال الغاط;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;29.821317;39.83236;DAWMAT AL JANDAL;Jawf;;514.63;1;3;892383;480;مخطط منازل دومة الجندل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;21.967066;42.039514;AL KHURMAH;Makkah;;502;1;2;293670;501;مخطط الدغمية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;28.651999;45.233108;HAFAR AL BATIN;Eastern Province;;930;1;3;484642;500;مخطط النظيم - 3/ح/د/1407;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;23.574927;45.612205;AR RAYN;Riyadh;;794.662854;1;1;118801;395.323187;مشروع  سمر الرين - العفج;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;16.703102;42.070706;FARASAN;Jizan;;511.25;1;2;955419;483.81;مشروع لؤلؤ فرسان;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.392652;41.716639;HAIL;Ha'il;;1000;1;1;168592.8;400;مشروع  المدائن - حائل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;30.360692;42.257466;AL UWAYQILAH;Northern Borders;;483;1;1;658626;435.999;مشروع المصيف - العويقلية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.606304;39.692125;AL MADINAH AL MUNAWWARAH;Madinah;;550;1;3;150000;499;مشروع الياسمين - المدينة المنورة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.109947;43.615067;RIYAD AL KHABRA;Qassim;;513.003698;1;2;430182;495.493575;مشروع جنان الخبراء - رياض الخبراء;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.066848;47.299058;AL KHARJ;Riyadh;;622.366;1;1;739800;371.137;مشروع اسكان الخرج;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.409134;46.805936;HAWTAT BANI TAMIM;Riyadh;;2000;1;2;750569;525;مشروع الحلوة - حوطة بني تميم;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.864388;42.105281;BAQ'A;Ha'il;;1155;1;1;504039;892;مشروع كنب الثنيان - حائل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;21.637815;40.390686;AT TAIF;Makkah;;508.366741;1;1;833297;400;مشروع  واحة الميقات - الطائف;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.840814;45.982396;HAFAR AL BATIN;Eastern Province;;937;1;1;989327;380;مخطط أم قليب-54/ح/1410;lands_moh_land;30/06/22;marketplaces;land
+marketplaces;28.036816;42.318835;BAQ'A;Ha'il;;500;1;1;193439;380;مشروع القليبة - حائل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.714253;42.627986;BAQ'A;Ha'il;;1147;1;3;298340;892;مشروع الجثياثه - حائل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.872334;40.347383;ASH SHAMLI;Ha'il;;900;1;2;527624;400;مشروع لؤلؤة الشملي - الشملي;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;19.519431;43.599588;TATILITH;'Asir;;941.704;1;1;791295;561.91;مشروع تثليث - عسير;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.232996;45.552931;AR RAYN;Riyadh;;895.54;1;2;679194;394.89;مخطط العمق - الرين;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.309725;44.236389;ASH SHIMASIYAH;Qassim;;672;1;2;697436;435;مشروع اسكان الشماسية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.307711;44.917194;AZ ZULFI;Riyadh;;525.645;1;2;972865;467.443;مشروع اسكان الزلفي;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.224641;45.862198;THADIQ;Riyadh;;500;1;3;880968;500;مشروع إسكان ثادق;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.492416;43.619825;UYUN AL JAWA';Qassim;;550;1;2;205462;500;مشروع إسكان عيون الجواء;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.248548;45.219565;SHAQRA';Riyadh;;509.69;1;2;898618;478.61;مشروع إسكان شقراء;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.896709;46.645818;AR RIYADH;Riyadh;شركة تلال العقارية;400;3;1;1894504;250;بيوت تلال - الرياض;offplan_moh_land;23/06/22;marketplaces;villa
+marketplaces;25.871382;49.603958;BUQAYQ;Eastern Province;;760.35;1;1;373699;499.992;مشروع زهرة الدغيمية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.432444;42.476111;ASH SHINAN;Ha'il;;1155;1;2;554146;892;مشروع الأرشاوية - الشنان;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.9815;42.001083;BAQ'A;Ha'il;;1120;1;2;863954;892;مخطط المندسة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.970639;49.551722;BUQAYQ;Eastern Province;;900;1;2;266016;570.5;هجرة الثمامة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.500583;45.379444;MARAT;Riyadh;;630;1;2;224480;600;مرات 1180;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.113958;45.485914;MARAT;Riyadh;;599.677;1;1;456159;568.048;مخطط مرات 1120;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.373744;46.849381;HAWTAT BANI TAMIM;Riyadh;;900;1;3;770288;550;مخطط الحلوة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.631617;42.611294;BAQ'A;Ha'il;;856;1;2;715682;753.73;الفويلق 2 - بقعاء;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.816694;41.440972;UMM AL QULBAN;Ha'il;;851;1;1;976769;692.14;ام قلبان - حائل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.633963;46.496143;AL HARIQ;Riyadh;;750;1;1;687063;500;مخطط اراضي 254 - الحريق;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.832014;46.77938;AR RIYADH;Riyadh;شركة رافد للمقاولات عامة;180;3;3;990000;110;مشروع رافد 1 - الرياض;offplan_private_land;19/06/22;marketplaces;apartment
+marketplaces;25.71975;45.855447;AL MAJMA'AH;Riyadh;;1026.03;1;3;584515;400;المجمعة- تمير -721-أ;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.723611;45.85975;AL MAJMA'AH;Riyadh;;960;1;2;119561;600;المجمعة - تمير - 837;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.031241;41.988545;ASH SHINAN;Ha'il;;1097.5;1;1;839642;827.5;مشروع السبعان - 496;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;29.74977144;39.90235433;DAWMAT AL JANDAL;Jawf;;1200;1;2;504695;517.5;مخطط الملك عبدالعزيز - دومة الجندل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;22.09656073;41.28615809;AL MUWAYH AL QADIM;Makkah;;862.5;1;3;487668;375;مشروع المويه - 4/ق/ط;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.296671;41.341699;AS SULAYMI;Ha'il;;800;1;3;288372;690;1532 السليمي - حائل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.682017;42.549247;BAQ'A;Ha'il;;500;1;2;332483;492;الناصرية 410;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.36510404;44.23082334;ASH SHIMASIYAH;Qassim;;1364.432;1;2;658323;483.371;مخطط الربيعية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;28.271389;42.929154;BAQ'A;Ha'il;;1242;1;3;751437;660;تربة 1403;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.262217;42.275323;ASH SHINAN;Ha'il;;525;1;2;738451;318.36;رك418 - حائل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.89475;46.639778;AR RIYADH;Riyadh;رتال;425;4;3;2120635;250;نساج تاون النرجس - الرياض;offplan_moh_land;15/06/22;marketplaces;villa
+marketplaces;30.302611;42.353218;AL UWAYQILAH;Northern Borders;;900;1;2;335879;600;مخطط العايش 12246 / س;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;19.895985;41.59519;BILJURASHI;Bahah;;611.365573;1;2;584226;448.199866;340  - العسله;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;22.429233;41.74011;AL MUWAYH AL JADID;Makkah;;740.965;1;3;130819;475.796;مخطط المويه الجديد - محافظة المويه;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.164083;46.996145;QARYAT AL 'ULYA;Eastern Province;;954.809;1;2;669410;377.823;مخطط الفريدة - قرية العليا;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.780771;41.631575;HAIL;Ha'il;;1897.27;1;2;817739;636.73;المزيريرات - حائل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.521556;43.900979;AD DUWADIMI;Riyadh;;894.82;1;3;242388;381.864;الرفيعة - الدوادمي;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;28.614934;44.053607;RAFHA';Northern Borders;;974;1;3;298868;663.91;هجرة رغوة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.924718;42.760833;AFIF;Riyadh;;1315.078;1;1;970981;559.049;مخطط الخالدية - عفيف;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.974805;49.476792;BUQAYQ;Eastern Province;;995.18;1;2;217311;582;يكـرب - الشرقية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;17.444587;42.526852;BAYSH;Jizan;;1880.56;1;3;738740;450;بيش 94;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.777695;46.584277;AR RIYADH;Riyadh;شركة ازدهار للتطوير العقاري;208.18;3;3;1899000;102.16;جاردن ريزيدنس - الرياض;offplan_private_land;08/06/22;marketplaces;apartment
+marketplaces;22.620727;40.603987;HADHAH;Madinah;;750;1;3;149709;415.025;مركز حاذه - المدينة المنورة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.523687;45.259725;SHAQRA';Riyadh;;858.264333;1;2;679598;533.782549;مخطط شقراء 151;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;29.302374;44.032425;RAFHA';Northern Borders;;529.376;1;2;943987;359.09;ام غار الخشيبي;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.88063;42.088879;ASH SHINAN;Ha'il;;1044;1;1;758293;850.18;مخطط المضيح - الشنان;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.520287;47.337779;QARYAT AL 'ULYA;Eastern Province;;780;1;2;417557;660;المخطط رقم ??/?? بمركز أم عقلاء بمحافظة قرية العليا;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;29.540999;42.097337;AL UWAYQILAH;Northern Borders;;1000;1;2;670017;625;مخطط نعيجان - العويقلية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;17.247788;42.443566;SABYA;Jizan;;550.0001;1;3;956026;450;مشروع الرفاه - صبيا;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;21.98806646;45.93273088;AR RAWDAH;Riyadh;;1260;1;3;661378;520;مخطط الأفلاج 705;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.291524;45.795837;THADIQ;Riyadh;;1035.005328;1;2;864608;600.0004519;مخطط ثادق 302/أ;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.65639656;46.36784813;THADIQ;Riyadh;;1260;1;2;554695;524.548;مخطط ثادق 362;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;21.559926;39.248832;JEDDAH;Makkah;شركة المنازل الذكية المحدودة;269;3;1;1050000;223;تاون هاوس - جدة;offplan_private_land;06/06/22;marketplaces;apartment
+marketplaces;19.37539954;42.79388097;BISHAH;'Asir;;637.5;1;1;643361;576.29;مخطط غرب سوق صمخ;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;19.35365203;42.79610617;BISHAH;'Asir;;695.49;1;3;258107;556.05;مخطط كتنه - بيشة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.18074391;45.80120514;THADIQ;Riyadh;;679.58;1;1;887996;600.7827;مخطط ثادق 370;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;20.45516951;45.60874802;AS SULAYYIL;Riyadh;;590.537294;1;2;540399;490.993311;مشروع شروق السليل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.657414;42.58092;AFIF;Riyadh;;890.4308;1;2;513423;347.234;مخطط الانسيات - عفيف;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.940933;46.907464;QARYAT AL 'ULYA;Eastern Province;;628.34;1;2;587786;351.871;مخطط ام كداد – حفر الباطن;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.07845043;45.34781229;QUWAY'IYAH;Riyadh;;1724.38;1;2;306340;600;مخطط 1051 - القويعية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.7656367;44.76488154;QUWAY'IYAH;Riyadh;;947.057;1;3;436571;500.976;مخطط 217 - القويعية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;18.69408679;42.8809609;KHAMIS MUSHAYT;'Asir;;937.58;1;3;782383;567.73;مخطط رغوة الجنوب – خميس مشيط;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.86721241;42.70005091;AFIF;Riyadh;;2000;1;2;426620;302.27;مخطط عفيف 843;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.4815503;46.7070349;AR RIYADH;Riyadh;الشركة الوطنية للإسكان البناء المطور;558;1;3;474271;336.91;الأصالة - الرياض;advanced_self_construction;11/05/22;marketplaces;villa
+marketplaces;25.544976;45.699969;AL MAJMA'AH;Riyadh;;887.4887;1;3;691036;387.4951;مخطط 411 - المجمعة;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.976281;47.023275;HAFAR AL BATIN;Eastern Province;;699.6897566;1;1;552644;331.8513324;معرج السوبان 21/18;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.67456667;43.13175386;AFIF;Riyadh;;1006.571;1;2;954379;535.942;مخطط المردمة 583 - عفيف;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.8352519;43.22310197;AFIF;Riyadh;;1114.253;1;2;476681;813.765;مخطط الهرانية 579 - عفيف;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;17.48562647;42.71490881;BAYSH;Jizan;;550;1;1;179429;450;مشروع الورود - بيش;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.83452746;42.83324324;AFIF;Riyadh;;1401.781;1;3;791347;447.954;مخطط 811 - عفيف;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.348845;43.274888;AFIF;Riyadh;;844.675;1;2;872701;328.062;مخطط عفيف - 306;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.10367402;48.53378303;AN NU'AYRIYAH;Eastern Province;;620.51;1;1;765924;408.12;مخطط الحسي 65/10 - النعيرية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;26.81673412;48.34051335;AN NU'AYRIYAH;Eastern Province;;631.847;1;2;668338;628.66;مخطط 90/10 - النعيرية;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;29.82565184;38.93718635;TUBARJAL;Jawf;;826.32;1;1;355144;388.71;مخطط ميقوع - دومة الجندل;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;24.9181;46.648268;AR RIYADH;Riyadh;دار واعمار للاستثمار والتطوير العقاري;409.53;5;2;1617629;257.5;سرايا الجوان ? - الرياض;offplan_private_land;25/04/22;marketplaces;townhouse
+marketplaces;25.433301;45.401977;SHAQRA';Riyadh;;712.498;1;3;666194;599.998;مخطط القصب 30 - شقراء;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.17693041;45.81364605;THADIQ;Riyadh;;839.335;1;2;588191;600;مخطط 286 - ثادق;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.2139785;45.86838014;THADIQ;Riyadh;;684.8016;1;2;795861;577.16;مخطط 366 - ثادق;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;27.602306;46.316667;HAFAR AL BATIN;Eastern Province;;816.9980956;1;3;821071;391.9979219;مخطط ش-ر-51/ح -هجرة مناخ - حفر الباطن;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.29193927;44.15297339;AD DUWADIMI;Riyadh;;625;1;2;865511;389.875;مخطط 32 - الراجحية - الدوادمي;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;25.729363;45.867403;TUMAIR;Riyadh;;863.1355;1;3;213958;570;مخطط 909 - المجمعة -  تمير;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;23.90018096;42.85395943;AFIF;Riyadh;;896.743;1;2;767386;380.356;مخطط 293 - الفيضة - عفيف;lands_moh_land;27/08/21;marketplaces;land
+marketplaces;21.777722;39.182278;JEDDAH;Makkah;الشركة الوطنية للإسكان;385;5;2;2171501;200;ميلاء - جدة;offplan_moh_land;23/08/21;marketplaces;townhouse
+marketplaces;22.4453697;39.09756439;King Abdullah Economic City;Makkah;شركة اعمار المدينة الاقتصادية;1448.29;6;3;3444323.04;580.25;مدينة الملك عبدالله الاقتصادية - الرويال غرينز;readymade_private_land;09/08/21;marketplaces;villa
+marketplaces;24.544056;46.517944;AR RIYADH;Riyadh;شركة السليمان العقارية;305.5;3;2;650000;187.9;سكينة ريزيدنس 3 - الرياض;offplan_private_land;09/08/21;marketplaces;apartment
+marketplaces;26.644917;49.997472;AL QATIF;Eastern Province;دار واعمار للاستثمار والتطوير العقاري;420.59;5;3;1623164;257.5;سرايا البحر - القطيف;offplan_moh_land;28/08/22;marketplaces;villa
+marketplaces;24.92793;46.636224;AR RIYADH;Riyadh;عبدالرحمن الراشد وأولاده;395;5;1;1977216;200;النرجس ?يو ? - الرياض;offplan_private_land;13/04/22;marketplaces;townhouse
+marketplaces;24.8487499;46.7634185;AR RIYADH;Riyadh;شركة الضاحية المثالية للتطوير والاستثمار العقاري;509.181;4;3;4503073.333;159.8;النايفة - الرياض;offplan_private_land;28/06/21;marketplaces;villa
+marketplaces;21.6227049;39.15597582;JEDDAH;Makkah;شركة انشاء للتطوير والاستثمار العقاري;294.18;4;3;1542061.4;81.69;جنان 1 - جدة;offplan_private_land;28/06/21;marketplaces;apartment
+marketplaces;24.5451506;46.52247622;AR RIYADH;Riyadh;شركة السليمان العقارية;345.5;3;1;650000;187.9;سكينة ريزيدنس 1 - الرياض;offplan_private_land;28/06/21;marketplaces;apartment
+marketplaces;26.607869;37.94592;AL ULA;Madinah;;742.78;1;2;351612;576.95;مخطط المحاش الشمالي /711 - المدينة المنورة;lands_moh_land;29/04/21;marketplaces;land
+marketplaces;26.552941;37.951095;AL ULA;Madinah;;800;1;2;218007;797.05;ت/1415 الميدان/704 - المدينة المنورة;lands_moh_land;29/04/21;marketplaces;land
+marketplaces;23.961213;42.51308;AFIF;Riyadh;;896.578;1;3;841132;380.343;مخطط 987/أ صوية - الرياض;lands_moh_land;29/04/21;marketplaces;land
+marketplaces;26.558145;37.958954;AL ULA;Madinah;;868.0804;1;2;234381.708;500.1;و/930 - المدينة المنورة;lands_moh_land;29/04/21;marketplaces;land
+marketplaces;26.550414;37.954965;AL ULA;Madinah;;1014.13;1;1;826976;427.91;و/834 - المدينة المنورة;lands_moh_land;29/04/21;marketplaces;land
+marketplaces;26.138806;50.15725;AL KHUBAR;Eastern Province;شركة أسوار المتحدة للتطوير العقاري;489.62;4;2;1277000;246.38;أسوار السكني - الخبر;offplan_private_land;31/03/21;marketplaces;villa
+marketplaces;26.231444;50.204222;AL KHUBAR;Eastern Province;الشركة الخليجية للتعمير العقاري;163;3;1;720000;153;أنار السكني - الخبر;offplan_private_land;22/02/21;marketplaces;apartment
+marketplaces;16.950425;42.564683;JIZAN;Jizan;شركه أفضل مسكن العقاريه;178.14;5;1;780000;144.66;جوهرة جيزان - جازان;offplan_private_land;12/04/22;marketplaces;apartment
+marketplaces;26.501431;44.018996;BURAYDAH;Qassim;;1236.2;1;2;497474;384.7;حاضرة بريدة - بريدة;lands_moh_land;21/02/21;marketplaces;land
+marketplaces;24.95975;46.622639;AR RIYADH;Riyadh;التحالف العقارية;569.9677734;4;2;1272251;194.8673621;إشراق ليفينج - الرياض;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;24.964991;46.61997;AR RIYADH;Riyadh;الديار العربية للتطوير العقاري;478.58;6;2;1165640;200;شمس الديار - الرياض - الديار العربية;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;18.35765;42.753309;KHAMIS MUSHAYT;'Asir;عبدالرحمن الراشد وأولاده;574.8239;5;1;822443;187.499;واحة الخميس - خميس مشيط;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;25.32048;49.596771;AL HUFUF;Eastern Province;أبراج ذهب للتطوير العقاري;350.3699;4;3;774239;164.9;ديار الحساء - الاحساء;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;24.965917;46.615694;AR RIYADH;Riyadh;مجموعة سلمان بن سعيدان للعقارات;185.5;3;3;410753;185.5;إسكان الرياض - الرياض;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;28.455361;36.51625;TABUK;Tabuk;شمائل الخليج للمقاولات;404.6;5;1;1036940;207;بساتين تبوك - تبوك;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;21.410327;39.280998;JEDDAH;Makkah;شركة جدارة العقارية;264.48;4;1;714096;127.58;أعالي جدة - جدة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;24.427833;39.645417;AL MADINAH AL MUNAWWARAH;Madinah;منازل العصرية للتطوير والاستثمار العقاري;264;4;2;651072;125;درة المدينة 1 - المدينة المنورة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;21.429778;39.285028;JEDDAH;Makkah;ساني العامرية;250;4;3;702958;125;تلال الغروب - جدة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;28.455694;36.523139;TABUK;Tabuk;الشركة الوطنية للإسكان;540;4;3;797625;220;تبوك ?الي - تبوك;offplan_moh_land;04/04/22;marketplaces;villa
+marketplaces;21.4154609;39.2806919;JEDDAH;Makkah;مكيون مطورون عمرانيون;263.99;4;1;615097;126.3;ربى جدة - جدة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;26.350112;49.97725;AD DAMMAM;Eastern Province;مدى الشرقية للتطوير;172.15;3;3;378730;130;واحة مدى -  الدمام;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;24.113363;38.013819;AL MADINAH AL MUNAWWARAH;Madinah;عبر المملكة العقارية;272.4;5;1;849888;136.2;جوار - المدينة المنورة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;26.355385;49.980021;AD DAMMAM;Eastern Province;شركة جدارة العقارية;567.5;5;3;1207656.795;230;واحة الدمام -  الدمام;offplan_moh_land;25/01/21;marketplaces;villa
+marketplaces;26.345556;49.988667;AD DAMMAM;Eastern Province;رتال;407.593628;4;3;757264;187.4329166;نساج تاون - الدمام;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;26.3385;49.98576;AD DAMMAM;Eastern Province;مايا للتطوير والاستثمار العقاري;250.65;4;2;558511;124.9;الفريدة -  الدمام;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;26.357417;49.971639;AD DAMMAM;Eastern Province;ثبات المسكن العقارية;435.35;4;1;749886;180;الدمام الشمالي (مدّ) -  الدمام;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;26.345556;49.988667;AD DAMMAM;Eastern Province;ساني العامرية;489.24;5;3;1230741;187.48;تلال الغروب - الدمام;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;18.360123;42.73824;KHAMIS MUSHAYT;'Asir;بن جارالله;243;4;2;510300;170;تلال الخميس - خميس مشيط;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;26.523463;49.977315;AL QATIF;Eastern Province;التميمي للخدمات والصيانة العالمية;485.81;5;2;820681;178.41;منازل القطيف - القطيف;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;21.46508;39.324515;JEDDAH;Makkah;شركة المسكن الوافي للتطوير العقاري;185.88;6;3;630000;84;العالية ? - جدة;offplan_private_land;30/03/22;marketplaces;apartment
+marketplaces;28.455361;36.51625;TABUK;Tabuk;منازل العصرية للتطوير والاستثمار العقاري;226.7;4;1;539500;125;درة تبوك - تبوك;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;17.0554153;42.5950265;JIZAN;Jizan;صرح التقنية;541.04;5;2;844876;292.65;ضاحية الملك عبدالله - جازان;offplan_moh_land;25/01/21;marketplaces;villa
+marketplaces;24.432779;39.646102;AL MADINAH AL MUNAWWARAH;Madinah;منازل العصرية للتطوير والاستثمار العقاري;285;4;2;789279;125.9;درة المدينة 2 - المدينة المنورة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;24.969972;46.625056;AR RIYADH;Riyadh;عبدالرحمن الراشد وأولاده;452.72;5;3;817433;199.9987;ديار السعد - الرياض;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;21.383972;39.784889;MAKKAH AL MUKARRAMAH;Makkah;لدن للإستثمار;214.7;4;3;614894;132.75;جوهرة الرصيفة -  مكة المكرمة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;24.113363;38.013819;YANBU;Madinah;الديار العربية للتطوير العقاري;250;6;3;832773;200;لؤلؤة الديار - ينبع;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;26.325361;50.003;AD DAMMAM;Eastern Province;سدين العربية للعقارات;380.84;4;2;859432;180.35;سدين - الدمام;offplan_moh_land;25/01/21;marketplaces;townhouse
+marketplaces;21.754611;39.166889;JEDDAH;Makkah;لدن للإستثمار;245.39;4;2;902330;125.14;فينان - جدة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;21.751824;39.17631;JEDDAH;Makkah;الديار العربية للتطوير العقاري;395.85;4;3;1233655;131.87;بوفارديا سيتي - جدة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;21.75539;39.179246;JEDDAH;Makkah;حمد وأحمد محمد المزيني العقارية;232.15;4;2;656285;194.05;الجوهرة ريزيدينس - جدة;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;24.941972;46.629361;AR RIYADH;Riyadh;الشركة الوطنية للإسكان;502.343;5;1;2847765;199.999658;رواء - الرياض;offplan_moh_land;21/02/22;marketplaces;townhouse
+marketplaces;25.321861;49.59075;AL HUFUF;Eastern Province;شركة طراز العربية;240;4;1;592857;138.86;طراز الاحساء - الاحساء;offplan_moh_land;25/01/21;marketplaces;apartment
+marketplaces;26.3272;49.982806;AD DAMMAM;Eastern Province;الاستثمارات المبتكرة العقارية;556.6;4;2;852400;246.8;فلل البيرق - الدمام;offplan_moh_land;25/01/21;marketplaces;villa
+marketplaces;26.329667;49.99725;AD DAMMAM;Eastern Province;رتال;525;4;1;996463;219.7;نساج تاون 2 - الدمام;offplan_moh_land;25/01/21;marketplaces;villa
+marketplaces;26.294091;43.868599;BURAYDAH;Qassim;شركة فضاء الاستثمار العقارية;516.72;4;3;961907;183;فلل حطين - القصيم;offplan_private_land;25/01/21;marketplaces;apartment
+marketplaces;24.557306;46.519944;AR RIYADH;Riyadh;شركة فيصل عبدالله بن سعيدان للاستثمار والتطويرالعقاري;202;4;3;707640;125;جوهرة السحاب - الرياض;offplan_private_land;12/01/21;marketplaces;apartment
+marketplaces;24.356102;39.575676;AL MADINAH AL MUNAWWARAH;Madinah;شركة دور العقارية للعقارات المحدودة;528.7999878;5;3;1150000;125.31;جادة السكب - المدينة المنورة;offplan_private_land;05/01/21;marketplaces;apartment
+marketplaces;24.65575;46.775917;AR RIYADH;Riyadh;شركة مسكن العربية للاستثمار والتطوير العقاري;450;4;1;1705000;200;مسكن هايتس - الرياض;offplan_private_land;17/12/20;marketplaces;townhouse
+marketplaces;26.092083;50.134139;AL KHUBAR;Eastern Province;شركة سمو الأصالة للتطوير والاستثمار العقاري;449.5;4;3;1270700;237.94;بارك فيو - الخبر;offplan_private_land;08/10/20;marketplaces;townhouse
+marketplaces;26.125444;50.148194;AL KHUBAR;Eastern Province;شركة أسيكو السعودية المحدودة;369;4;3;734400;300;أصداف الخبر - الخبر;offplan_private_land;09/07/20;marketplaces;villa
+marketplaces;21.45992;39.912654;MAKKAH AL MUKARRAMAH;Makkah;شركة دور العقارية للعقارات المحدودة;232;3;3;640000;188;المعيصم السكني - مكة المكرمة;offplan_private_land;06/07/20;marketplaces;apartment
+marketplaces;26.376633;50.125687;AD DAMMAM;Eastern Province;مؤسسة عنواني العقارية;262;6;3;955000;130;عنواني ريزيدنس - الدمام;offplan_private_land;13/02/22;marketplaces;apartment
+marketplaces;21.593417;39.144722;JEDDAH;Makkah;شركة عبداللطيف جميل للأراضي المحدودة;225.98;4;3;1963900;152.28;داري قريش - جدة;offplan_private_land;01/07/20;marketplaces;apartment
+marketplaces;25.473194;49.541806;AL HUFUF;Eastern Province;الاستثمارات المبتكرة العقارية;250;4;1;715408;250;فلل البيرق ( المبرز ) - الأحساء;offplan_moh_land;17/05/20;marketplaces;villa
+marketplaces;21.807722;39.097722;JEDDAH;Makkah;شركة حجاج وشركاه;307.52;4;1;1692528;225;قرية موجان - جدة;offplan_private_land;31/03/20;marketplaces;villa
+marketplaces;24.903678;46.953886;AR RIYADH;Riyadh;حمد وأحمد محمد المزيني العقارية;300;4;3;811492;300;بوابة الشرق - الرياض;offplan_private_land;18/03/20;marketplaces;villa
+marketplaces;21.377583;40.429222;AT TAIF;Makkah;إدارة للتنمية والتطوير;693.84;4;3;1379432;250;مدينة الورود - الطائف -  إدارة للتنمية والتطوير;offplan_private_land;25/02/20;marketplaces;villa
+marketplaces;24.119028;37.989583;YANBU;Madinah;التميمي للتجارة والتعهدات المحدودة;347.054;5;3;1159161;162.337;رواسن - ينبع;offplan_private_land;25/02/20;marketplaces;apartment
+marketplaces;24.847503;46.884934;AR RIYADH;Riyadh;عنان العقارية;400.22;4;3;912500;220;معالي عنان - الرياض;offplan_private_land;25/02/20;marketplaces;villa
+marketplaces;24.596319;46.700361;AR RIYADH;Riyadh;دار الأركان;179.625;4;3;563000;133.63;إسكان الرياض - (باريزيانا) - الرياض;readymade_private_land;25/02/20;marketplaces;apartment
+marketplaces;26.202278;50.169028;AL KHUBAR;Eastern Province;عنان العقارية;792.4;4;2;1247719;210.66;إطلالة البحر- الخبر;offplan_private_land;25/02/20;marketplaces;villa
+marketplaces;26.374531;49.960369;AD DAMMAM;Eastern Province;الجبيل للتعمير;325;3;2;749949;320;إسكان الدمام - تلال الدمام - الدمام;readymade_private_land;25/02/20;marketplaces;apartment
+marketplaces;26.181119;50.190166;AL KHUBAR;Eastern Province;مدى الشرقية للتطوير;420;5;2;1784950;350;نسيم - الخبر;offplan_private_land;10/02/22;marketplaces;villa
+marketplaces;26.232793;50.204459;AL KHUBAR;Eastern Province;الرائم للمقاولات;314;3;3;720000;147;إسكان الخبر - الشبيلي - الخبر;readymade_private_land;25/02/20;marketplaces;apartment
+marketplaces;24.847667;46.885167;AR RIYADH;Riyadh;تحالف الزامل;396.2;4;2;870603;219.93;بيوت الزامل - الرياض;offplan_private_land;25/02/20;marketplaces;villa
+marketplaces;0;0;LAYLA;Riyadh;وزارة الإسكان;725;3;1;363000;600;إسكان الأفلاج - الأفلاج;readymade_moh_land;13/02/20;marketplaces;villa
+marketplaces;0;0;AN NABHANIYAH;Qassim;وزارة الإسكان;585;3;3;294000;409.48;إسكان النبهانية - النبهانية;readymade_moh_land;13/02/20;marketplaces;villa
+marketplaces;0;0;TURAIF;Northern Borders;وزارة الإسكان;500;3;3;414690;484;إسكان طريف - طريف;readymade_moh_land;13/02/20;marketplaces;villa
+marketplaces;0;0;HAFAR AL BATIN;Eastern Province;وزارة الإسكان;597.5;3;1;513000;467.5;إسكان حفر الباطن - حفر الباطن;readymade_moh_land;13/02/20;marketplaces;villa
+marketplaces;0;0;AL QURAYYAT;Jawf;وزارة الإسكان;500;3;2;393000;494;إسكان القريات - القريات;readymade_moh_land;13/02/20;marketplaces;villa
+marketplaces;0;0;NAJRAN;Najran;وزارة الإسكان;616;3;2;391000;435;إسكان نجران - نجران;readymade_moh_land;13/02/20;marketplaces;villa
+marketplaces;26.308749;44.915475;AZ ZULFI;Riyadh;وزارة الإسكان;525;3;3;350000;475;إسكان الزلفي - الزلفي;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;THADIQ;Riyadh;وزارة الإسكان;583.2;3;2;200000;451.12;إسكان ثادق - ثادق;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;21.466611;39.789;MAKKAH AL MUKARRAMAH;Makkah;عبر المملكة العقارية;192.94;3;1;787122;150.15;مكانة - مكة المكرمة;offplan_private_land;08/02/22;marketplaces;apartment
+marketplaces;0;0;AD DUWADIMI;Riyadh;وزارة الإسكان;500;4;1;374000;500;إسكان الدوادمي - الدوادمي;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;AL KHURMAH;Makkah;وزارة الإسكان;550;3;3;370000;493.75;إسكان الخرمة - الخرمة;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;AL HUFUF;Eastern Province;وزارة الإسكان;790.59;4;2;446500;470.04;إسكان الإحساء;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;AL MUBARRAZ;Eastern Province;وزارة الإسكان;500;4;2;650000;100;إسكان المبرز - المبرز;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;AL BADAI';Qassim;وزارة الإسكان;600;3;3;310000;600;إسكان البدائع - البدائع;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;RIYAD AL KHABRA;Qassim;وزارة الإسكان;727;4;1;452459;331;إسكان رياض الخبراء - رياض الخبراء;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;AL MUKHWAH;Bahah;وزارة الإسكان;495;3;2;500000;387.35;إسكان المخواة - المخواة;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;AHAD AL MUSARIHAH;Jizan;وزارة الإسكان;504.02;4;3;550000;100;إسكان أحد المسارحة - أحد المسارحة;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;RAFHA';Northern Borders;وزارة الإسكان;525;3;2;336000;475;إسكان رفحاء - رفحاء;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;SHAQRA';Riyadh;وزارة الإسكان;514.28;4;3;339500;459.14;إسكان شقراء - شقراء;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;24.839944;46.765028;AR RIYADH;Riyadh;شركة الأشغال العقارية;55.4624;3;3;1000000;25.0848;هبيتات? - الرياض;offplan_private_land;08/02/22;marketplaces;apartment
+marketplaces;0;0;AR'AR;Northern Borders;وزارة الإسكان;500;3;2;315000;500;إسكان عرعر - عرعر;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;RUMAH;Riyadh;وزارة الإسكان;620;4;2;400000;465;إسكان رماح - رماح;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;UNAYZAH;Qassim;وزارة الإسكان;525;3;3;342000;500;إسكان عنيزة - عنيزة;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;37.976167;AL ULA;Madinah;وزارة الإسكان;1175;3;3;428000;730;إسكان العلا - العلا;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;0;0;KHAYBAR;Madinah;وزارة الإسكان;774;4;1;550000;100;إسكان خيبر - خيبر;readymade_moh_land;29/01/20;marketplaces;villa
+marketplaces;21.391739;39.253628;JEDDAH;Makkah;الشركة الوطنية للإسكان البناء المطور;456.97;1;2;638096.05;348.908;السدن - جدة;advanced_self_construction;;marketplaces;villa
+marketplaces;26.3565833;50.13399438;AD DAMMAM;Eastern Province;شركة روانا للتطوير والاستثمار العقاري;218;3;3;985000;142;دان - الدمام;offplan_private_land;01/02/22;marketplaces;apartment
+marketplaces;26.851434;49.795433;AL JUBAIL;Eastern Province;شركة مرجان الشرقية للمقاولات العامة;266;4;3;698000;230;درة الجبيل - الجبيل;offplan_private_land;23/08/22;marketplaces;apartment
+marketplaces;21.752458;39.165661;JEDDAH;Makkah;شركة أزهر القابضة;350.98242;4;1;811494;192.1;بيلار - جدة;offplan_moh_land;27/01/22;marketplaces;apartment
+marketplaces;25.316833;49.544667;AL HUFUF;Eastern Province;الفايزية;462;4;2;928300;236;مخطط الجوهرة السكني - الأحساء;offplan_private_land;23/01/22;marketplaces;villa
+marketplaces;21.524833;40.508167;AT TAIF;Makkah;تواصل الإمداد;317.89;6;1;812682;164.463;الفتح - الطائف -  تواصل الإمداد;offplan_private_land;23/01/22;marketplaces;apartment
+marketplaces;21.556583;39.798583;MAKKAH AL MUKARRAMAH;Makkah;الخماسية;511;5;2;1218195;139.36;رتاج - مكة المكرمة;offplan_private_land;23/01/22;marketplaces;apartment
+marketplaces;26.342972;49.995639;AD DAMMAM;Eastern Province;شركة إسكان الحاكمية للاستثمار والتطوير العقاري;549.6887;4;1;963798;250;الواجهة - الدمام;offplan_private_land;23/01/22;marketplaces;villa
+marketplaces;24.9013546;46.7904786;AR RIYADH;Riyadh;الشركة العقارية السعودية;765;4;2;1997052;230;الضاحية السكني - الرياض;offplan_private_land;23/01/22;marketplaces;villa
+marketplaces;24.543996;46.5137162;AR RIYADH;Riyadh;شركة فيصل عبدالله بن سعيدان للاستثمار والتطويرالعقاري;199;4;3;741633;157;جوهرة الغروب - الرياض;offplan_private_land;23/01/22;marketplaces;apartment
+marketplaces;26.210722;50.169167;AL KHUBAR;Eastern Province;شركة افاق التعمير للتطوير والاستثمار العقاري;501.95;4;3;1196204;299.36;دانة البحر - الخبر;offplan_private_land;23/01/22;marketplaces;villa
+marketplaces;26.1368679;50.15276992;AL KHUBAR;Eastern Province;رتال;727;4;1;1646100;348;نساج تاون - الخبر;offplan_private_land;23/01/22;marketplaces;villa
+marketplaces;20.016278;41.5177;AL BAHA;Bahah;;544.717071;1;1;841929;471.324076;مخطط الازدهار - الباحة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.655908;46.585686;SABYA;Jizan;شركة مدى المحدودة;224;6;2;672000;188.64;مدى السكني - جازان;offplan_private_land;11/08/22;marketplaces;apartment
+marketplaces;17.318725;42.51176;SABYA;Jizan;;584.4;1;1;611038;400;مخطط واحة البستان - صبيا;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;28.46;46.080389;HAFAR AL BATIN;Eastern Province;;573.22;1;2;698938;424.18;مخطط الشروق - حفر الباطن;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.579846;39.755032;AL MADINAH AL MUNAWWARAH;Madinah;;816;1;1;464006;499.988996;مخطط الهضبة - المدينة المنورة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;25.923111;49.607167;BUQAYQ;Eastern Province;;600.14;1;2;124432;445;مخطط تلال قرطبة - بقيق;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;18.825742;41.966253;BARIQ;'Asir;;590.210557;1;2;858369;400;مخطط  ربيع بارق - بارق;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;26.271694;36.451608;AL WAJH;Tabuk;;533.33;1;3;758178;400;مخطط نورس الإسكان -  الوجه;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;17.779707;43.493431;DHAHRAN AL JANUB;'Asir;;530.278;1;1;493461;484.843;مخطط  ياسمين - ظهران الجنوب;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;30.502632;38.170283;TUBARJAL;Jawf;;520;1;3;300395;480;مخطط صفا طبرجل - طبرجل;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;17.109361;42.755194;DAMAD;Jizan;;525;1;2;274277;400;مخطط الريحان - ضمد;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;26.799611;44.207417;AL ASYAH;Qassim;;551.605;1;3;856794;477;مخطط واحة الأسياح - الأسياح;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.648991;46.555;AR RIYADH;Riyadh;بنائات العقارية;279.7;5;2;672000;125;إسكان الرياض (مشروع السلطان) - الرياض;readymade_private_land;28/07/22;marketplaces;apartment
+marketplaces;20.467323;44.778423;WADI AD DAWASIR;Riyadh;;555.919;1;1;456997;482.502;مخطط وادي العقيق - وادي الدواسر;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;29.21324;34.932062;HAQL;Tabuk;;777.2;1;1;955099;387.9;مخطط أصداف السلطانية - حقل;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;17.700056;42.308806;AD DARB;Jizan;;525;1;3;302163;480;مخطط المملكة - الدرب;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;21.658643;39.617772;AL JUMUM;Makkah;;500;1;1;697382;499;مخطط الجموم - الجموم;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;21.898806;39.234417;JEDDAH;Makkah;;500;1;3;885712;500;مخطط منارات الصفوة - عسفان;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;17.248753;42.897231;AL 'AYDABI;Jizan;;543.71;1;2;792572;499.6;مخطط منازل الشهد - جازان;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;26.182657;43.603449;AL BUKAYRIYAH;Qassim;;594.6863;1;1;639586;434.2214;مخطط بساتين البكيرية - البكيرية;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;20.185481;41.088044;AL HAJRAH;Bahah;;625.4990869;1;3;685613;454.5887499;مخطط  أنوار الحجرة - الباحة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;25.826161;44.174328;AL MIDHNAB;Qassim;;576.88;1;3;806385;491;مخطط معين المذنب - المذنب;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;18.788767;41.906663;MUHAYIL;'Asir;;592.39274;1;2;712020;388.194307;مخطط ربيع محايل - محايل;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.810025;46.771981;AR RIYADH;Riyadh;شركه رسو العقارية;199.55;4;1;1050000;151.35;رسو 1 - الرياض;offplan_private_land;26/07/22;marketplaces;apartment
+marketplaces;20.160932;41.38947;AL QARI;Bahah;;548.951;1;1;727463;477.587;مخطط روابي الباحة - الباحة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;18.696028;42.871111;KHAMIS MUSHAYT;'Asir;;518.3543975;1;2;456712;475.8041628;مخطط وادي الرفاه - خميس مشيط;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;19.847737;41.449261;AL MUKHWAH;Bahah;;598.538475;1;2;126909;400;مخطط منازل السمير - الباحة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;18.06923;43.124416;SARAT ABIDAH;'Asir;;689.8605408;1;3;540482;427.4996856;مخطط جوهرة القصر  - سراة عبيدة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;19.316833;42.145361;AN NAMAS (TANUMAH);'Asir;;616.792987;1;1;316536;499.813257;مخطط  تلال السرح - النماص;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;29.979442;40.249676;SAKAKA;Jawf;;541.1486;1;3;791594;400;مخطط ورود سكاكا - سكاكا;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;19.83465;41.703233;BILJURASHI;Bahah;;680.562;1;3;565557;475.5;مخطط روابي الحميد - بلجرشي;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;27.390814;41.195344;MAWQAQ;Ha'il;;539.73;1;1;548101;352.34;مخطط التلال - موقق;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;20.3054;41.58563;AL AQIQ;Bahah;;545.44;1;1;204670;400;مخطط جوهرة العقيق - العقيق;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;17.842279;44.303663;HUBUNA;Najran;;526.483;1;2;673624;480.566;مخطط درة العزيزية - حبونا;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;21.774472;39.181277;JEDDAH;Makkah;عبدالرحمن الراشد وأولاده;332.84;5;3;1467216;212.5;جاردن فيو - جدة;offplan_moh_land;03/07/22;marketplaces;townhouse
+marketplaces;18.706029;42.068267;MUHAYIL;'Asir;;556.9031408;1;2;245876;466.9502894;مخطط درة سحبان - محايل عسير;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;31.649161;38.686154;TURAIF;Northern Borders;;527.5;1;1;982273;499.9988;مخطط واحة طريف ? - طريف;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;25.897574;43.542005;AR RASS;Qassim;;1111.294443;1;1;614812;400;مخطط منازل الرس - الرس;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;19.905997;41.162563;QILWAH;Bahah;;569.6209962;1;3;693736;450.0004514;مخطط إطلالة الوادي - قلوة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;25.95005;43.723738;AL BADAI';Qassim;;604.88;1;2;495398;454.09;مخطط  ربيع البدائع - البدائع;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;21.338748;39.264257;JEDDAH;Makkah;;450;1;3;345250;450;مخطط روضة التعاون - الخمرة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;19.389449;41.850462;AL 'ARDIA AL JANUBIA;Makkah;;500;1;3;275737;500;مخطط واحة العرضية - العرضيات;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;19.706958;42.039368;'AFRA';'Asir;;1001.810649;1;3;103138;400;مخطط شرفات الوادي - بلقرن;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;25.107644;46.186212;HURAYMILA;Riyadh;;558;1;3;319477;487.5;مخطط شرفات - حريملاء;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;18.358569;42.526731;ABHA;'Asir;;569.9764791;1;2;191223;454.8662743;مخطط نسيم أبها - أبها;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.566289;46.676295;AR RIYADH;Riyadh;بن جارالله;362.036;4;2;1471409;249.594;أزيان نمار - الرياض;offplan_moh_land;03/07/22;marketplaces;villa
+marketplaces;31.293095;37.342182;AL QURAYYAT;Jawf;;538.48;1;2;978029;438.04;مخطط النخيل - القريات;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;23.512205;46.89964;HAWTAT BANI TAMIM;Riyadh;;1365;1;3;842710;622.03;مخطط منازل الحوطة - حوطة بني تميم;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;26.511051;42.114135;SIMIRA';Ha'il;;597.924;1;1;969828;476.619;مخطط الازدهار - سميراء;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;19.1067;41.857862;AL MAJARDAH;'Asir;;550;1;2;546119;497.5;مخطط العبير - عسير;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;23.607434;46.490155;AL HARIQ;Riyadh;;519.88;1;3;944039;479.33;مخطط منازل الزهور - الحريق;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;26.177791;43.612227;AL BUKAYRIYAH;Qassim;;750;1;3;546335;575.5;مخطط إسكان البكيرية - البكيرية;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;18.025902;43.152436;SARAT ABIDAH;'Asir;;580.7229277;1;3;162947;472.3758718;مخطط الروابي - سراة عبيدة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;24.469556;39.807306;AL MADINAH AL MUNAWWARAH;Madinah;;550;1;3;302561;500;مخطط الشروق -  المدينة المنورة;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;18.343258;42.519739;ABHA;'Asir;;752.9914996;1;3;611042;393.0558922;مخطط روابي أبها - أبها;lands_moh_land;20/01/22;marketplaces;land
+marketplaces;26.134406;44.05993;UNAYZAH;Qassim;;714.45;1;1;487514;450;مخطط آفاق الصفا - عنيزة;lands_moh_land;20/01/22;marketplaces;land
